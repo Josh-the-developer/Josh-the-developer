@@ -41,4 +41,4 @@ To build strong Computer Engineering fundamentals and develop practical skills i
 
 If you're interested in Linux, programming, Computer Engineering, or technology, feel free to connect with me.
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn:https://www.linkedin.com/in/josh-the-developer
